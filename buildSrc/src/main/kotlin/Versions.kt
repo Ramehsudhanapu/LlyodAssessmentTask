@@ -1,4 +1,3 @@
-/** Created by github.com/im-o on 12/12/2022. */
 
 object Versions {
     const val compile_sdk = 33
@@ -29,10 +28,8 @@ object Versions {
     const val coil_version = "2.2.2"
     const val hilt_android = "2.45"
     const val hilt_compose = "1.0.0"
-    const val room_version = "2.4.3"
+
     const val compose_ui_version = "1.3.1"
-    const val accompanist_pager_version = "0.28.0"
     const val accompanist_systemuicontroller_version = "0.28.0"
 
-    const val realtime_database_version = "20.2.1"
 }
